@@ -1,0 +1,2 @@
+# CPU_54_TongjiUniversity
+这是同济大学计算机组成原理的MIPS CPU54的实验项目，其中包括通过前仿真和后仿真的CPU_54的文件，还有已经通过FPGA测试的下板文件
